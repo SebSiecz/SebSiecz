@@ -1,16 +1,14 @@
-### Hi there 👋
+# Hey 👋
 
-<!--
-**SebSiecz/SebSiecz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm Seb, a software engineer 👨‍💻 specialising in backend development in **.Net Core** and **Node.js** and deploying to **AWS** and **Azure** clouds ☁️
 
-Here are some ideas to get you started:
+In the past I've worked on a couple of different online retail sites, mainly writing backends in node.js (both JS and TS) using microservice architectures.
+On my most recent project, I was the key contributor on a debt portfolio management platform using the following stack;
+- 🛠 .Net Core 3 / GraphQL
+- 🔐 Identity Server 4
+- 🗄 MongoDB / PostgreSQL
+- 🏗 Pulumi
+- ☁️ Azure
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to reach me
+🤝 Connect on [LinkedIn](https://www.linkedin.com/in/sebsiecz/)
