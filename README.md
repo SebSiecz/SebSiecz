@@ -12,7 +12,7 @@
   </p>
 
   <h2>🔑 Tech Stack</h2>
-  <table border="1" cellpadding="8" cellspacing="0" width="100%">
+  <table border="1" cellpadding="8" cellspacing="0" width="100%" align="center">
     <tr>
       <th align="left">Category</th>
       <th align="left">Technologies</th>
