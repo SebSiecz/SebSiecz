@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="./assets/welcome.jpg" width="80%" alt="Welcome Image">
+  <img src="./assets/welcome.jpg" width="100%" alt="Welcome Image">
 </div>
 <hr />
 <h1 align="center">👋 Welcome</h1>
