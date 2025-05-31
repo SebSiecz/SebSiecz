@@ -1,7 +1,7 @@
 <div align="center">
   <img src="./assets/welcome.jpg" width="80%" alt="Welcome Image">
 </div>
-<h1 style="text-align: center;">👋 Welcome</h1>
+<h1 align="center">👋 Welcome</h1>
 <div>
   <p>
     I'm Seb, a backend engineer specializing in <b>Node.js</b>, <b>TypeScript</b>, and AWS. I focus on headless CMS platforms like ContentStack and Contentful, handling content modeling, migrations, and platform optimization.
