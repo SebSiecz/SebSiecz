@@ -1,5 +1,5 @@
 <div align="center">
-  <table width="100%">
+  <table style="border: none!important;" width="100%">
     <tr>
       <td valign="top" width="55%">
         <h1 align="left">Welcome</h1>
@@ -16,7 +16,7 @@
       </td>
     </tr>
   </table>
-  <table border="0" cellpadding="8" cellspacing="0" width="100%" align="center">
+  <table  style="border: none!important;" cellpadding="8" cellspacing="0" width="100%" align="center">
     <tr>
       <th align="center" colspan="2" style="text-align:center;"><h2>Tech Stack</h2></th>
     </tr>
