@@ -15,8 +15,6 @@
         <img src="./assets/building.jpg" width="100%" style="max-width:320px; border-radius:8px;" alt="Building" />
       </td>
     </tr>
-  </table>
-  <table  style="border: none!important;" cellpadding="8" cellspacing="0" width="100%" align="center">
     <tr>
       <th align="center" colspan="2" style="text-align:center;"><h2>Tech Stack</h2></th>
     </tr>
