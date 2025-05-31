@@ -2,7 +2,7 @@
   <table style="border: none!important;" width="100%">
     <tr>
       <td valign="top" width="55%">
-        <h1 align="left">Welcome</h1>
+        <h1 align="center">Welcome</h1>
         <p>
           I'm Seb, a backend engineer specializing in <b>Node.js</b>, <b>TypeScript</b>, and AWS. Besides usual API development, I also specialise in working with headless CMS platforms like ContentStack and Contentful, handling content modeling, migrations, and platform optimization.
         </p>
