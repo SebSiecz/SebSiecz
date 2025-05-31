@@ -11,8 +11,10 @@
     <a href="https://www.strv.com/blog/building-a-contentful-driven-audio-streaming-app-engineering-product" target="_blank">Read more</a>.
   </p>
 
-  <h2>🔑 Tech Stack</h2>
   <table border="1" cellpadding="8" cellspacing="0" width="100%" align="center">
+    <tr>
+      <th align="center" colspan="2" style="text-align:center;">🧰 Tech Stack</th>
+    </tr>
     <tr>
       <th align="left">Category</th>
       <th align="left">Technologies</th>
